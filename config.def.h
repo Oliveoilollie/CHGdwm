@@ -8,11 +8,11 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "ubuntu:size=12" };
 static const char dmenufont[]       = "ubuntu:size=12";
-static const char col_gray1[]       = "#220f13";
-static const char col_gray2[]       = "#220f13";
-static const char col_gray3[]       = "#bbbbbb";
-static const char col_gray4[]       = "#eeeeee";
-static const char col_cyan[]        = "#d02f34";
+static const char col_gray1[]       = "#121716";
+static const char col_gray2[]       = "#121716";
+static const char col_gray3[]       = "#9cb396";
+static const char col_gray4[]       = "#121716";
+static const char col_cyan[]        = "#87b061";
 static const unsigned int baralpha = 0xd0;
 static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3]      = {
